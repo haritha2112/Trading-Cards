@@ -5,4 +5,14 @@ body {
   border-color: #a6a6a6;
   border-radius: 20px;
   box-shadow: 5px 5px #f2f2f2;
+  text-align: center;
+  font-family: Palatino Linotype;
+}
+
+#animalName {
+  padding: 15px;
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 20px;
+  color: #666666;
 }
