@@ -1,0 +1,8 @@
+body {
+  height: 580px;
+  width: 400px;
+  border: 0.5px solid;
+  border-color: #a6a6a6;
+  border-radius: 20px;
+  box-shadow: 5px 5px #f2f2f2;
+}
