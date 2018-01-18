@@ -1,18 +1,44 @@
 body {
   height: 620px;
-  width: 400px;
+  width: 350px;
   border: 0.5px solid;
   border-color: #a6a6a6;
   border-radius: 20px;
   box-shadow: 5px 5px #f2f2f2;
-  text-align: center;
   font-family: Palatino Linotype;
 }
 
 #animalName {
-  padding: 15px;
+  
   font-family: Verdana;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 15px;
   color: #666666;
+  text-align: center;
+  border-style: hidden;
+}
+
+#image {
+  padding-left: 50px ;
+  padding-right: 50px ;
+}
+
+.animalImage{ 
+  border:1px solid #404040;
+}
+
+
+.description {
+  padding: 5px;
+  font-size: 12.5px;
+  border:1px solid #404040;
+  height: 280px;
+  width: 250px;
+  margin: 5px 10px 50px 45.5px;
+  border-radius: 10px;
+}
+
+.animalData {
+  list-style: none;
+  text-align: left;
 }
