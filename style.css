@@ -26,19 +26,19 @@
 }
 
 .description {
-  padding: 2%;
-  font-size: 80%;
+  padding: 4px;
+  font-size: 12.5px;
   border:1px solid #a6a6a6;
-  height: 38%;
-  width: 88%;
-  margin: 3%;
+  height: 230px;
+  width: 290px;
+  margin: 14px;
   border-radius: 10px;
 }
 
 .introduction {
   font-style: italic;
-  font-size: 100%;
-  margin-top: 3%;
+  font-size: 13px;
+  margin-top: 4px;
 }
 
 .animalData {
