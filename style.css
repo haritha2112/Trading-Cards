@@ -11,7 +11,7 @@
 #animalName {
   font-family: Verdana;
   font-weight: bold;
-  font-size: 15px;
+  font-size: 100%;
   color: #666666;
   text-align: center;
   border-style: hidden;
