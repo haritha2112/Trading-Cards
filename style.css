@@ -36,8 +36,18 @@ body {
   border-radius: 10px;
 }
 
+.introduction {
+  font-style: italic;
+  font-size: 13px;
+  margin-top: 4px;
+}
+
 .animalData {
   list-style: none;
   text-align: left;
   padding-left: 0px;
+}
+
+.label {
+  font-weight: bold;
 }
