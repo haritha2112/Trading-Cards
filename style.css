@@ -39,4 +39,5 @@ body {
 .animalData {
   list-style: none;
   text-align: left;
+  padding-left: 0px;
 }
